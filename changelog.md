@@ -1,33 +1,10 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+Team membership:  Arnold Myint (Captain) & Arvin Rolos ( First Mate)  
+Team conventions: Allman notation, markdown for changelog.  
+Changelog format: Bottom to top (New to old).
 
-## *Version x.x*
-
-Release Date: Jul 26, 2027
-
-## New Components
-
--   controllers
-
-    -   serbian (AB)
-    
-## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
-
-
+<h2>Change Log: </h2>
+Version | Release Date | Description  | Editor
+--- | --- | --- | ---
+*v1.0* | Jul 25, 2027 | Updated the change log. | `arnoldmyint`
