@@ -7,5 +7,6 @@ Changelog format: Bottom to top (New to old).
 <h2>Version: </h2>
 Version | Release Date | Description  | Editor
 --- | --- | --- | ---
+*v1.2* | Jul 25, 2017 | Trivial to basic website conversion. | `arnoldmyint`
 *v1.1* | Jul 25, 2017 | Partially transformed website into trivial CodeIgniter webapp. | `Arv91`
 *v1.0* | Jul 25, 2017 | Updated the change log. | `arnoldmyint`
